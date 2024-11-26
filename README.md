@@ -14,6 +14,4 @@
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[instagram]: https://www.instagram.com/Josh
+https://www.linkedin.com/in/sirkeron-dotson-a6b6a6144/
